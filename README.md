@@ -35,7 +35,7 @@
 8-**TL;DR command list**
 
     git clone git@github.com/midorikocak/today.git
-    cd laravel-realworld-example-app
+    cd today
     composer install
     cp .env.example .env
     php artisan key:generate
