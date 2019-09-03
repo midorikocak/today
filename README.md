@@ -34,7 +34,7 @@
  
 8-**TL;DR command list**
 
-    git clone git@github.com:gothinkster/laravel-realworld-example-app.git
+    git clone git@github.com:gothinkster/today.git
     cd laravel-realworld-example-app
     composer install
     cp .env.example .env
