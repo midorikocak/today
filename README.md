@@ -36,12 +36,18 @@
     cp .env.example .env
     php artisan key:generate
     php artisan migrate
-    
-8- **Make sure you set the correct database connection information before running the migrations Environment variables.**
 
-   php artisan migrate
+ 8-Start the local development server
+
+    php artisan serve
+
+    You can now access the server at http://localhost:8000
+    
+9- **Make sure you set the correct database connection information before running the migrations Environment variables.**
+
+    php artisan migrate
    
-   php artisan serve
+    php artisan serve
 
        
        
