@@ -16,7 +16,7 @@
 
 4-Copy the example env file and make the required configuration changes in the .env file
 
-   cp .env.example .env
+    cp .env.example .env
 
 5- Generate a new application key
 
