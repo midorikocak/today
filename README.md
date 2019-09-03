@@ -39,8 +39,9 @@
     
 8- **Make sure you set the correct database connection information before running the migrations Environment variables.**
 
-  php artisan migrate
-  php artisan serve
+   php artisan migrate
+   
+   php artisan serve
 
        
        
